@@ -1,5 +1,7 @@
 # Hey, I'm KawaYww
 
+<h3 align="center"> ☆ ☆ Where am I? ☆ ☆ </h3>
+
 ![kawayww-here](/assets/kawayww-here.svg)
 
 <h3 align="center"> ☆ ☆ Why not me? ☆ ☆ </h3>
