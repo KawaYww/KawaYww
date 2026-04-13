@@ -15,9 +15,9 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=%E5%AE%81%E5%8F%AF%E6%B8%85%E8%B4%AB%E8%87%AA%E4%B9%90%EF%BC%8C%E4%B8%8D%E4%BD%9C%E6%B5%8A%E5%AF%8C%E5%A4%9A%E5%BF%A7&center=true&width=720&height=45&color=7DD3FC&vCenter=true&size=24" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="./assets/ak.avif" alt="ak" width="100%" />
-</p>
+<div align="center">
+  <img src="./assets/ak.avif" alt="ak" width="70%" />
+</div>
 
 <p align="center">
   <i>no grand entrance, no farewell, only traces that remain.</i>
